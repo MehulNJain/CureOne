@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605428493420",
+    "firebase_url": "https://cureone-4e269-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cureone-4e269",
+    "storage_bucket": "cureone-4e269.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605428493420:android:61c6dc9add51752d62fc49",
+        "android_client_info": {
+          "package_name": "com.example.cureone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQyuMptJWeX3LmLx7IcbW_7RkNjVh8jv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
